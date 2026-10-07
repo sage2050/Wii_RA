@@ -2230,7 +2230,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMT-0540-S-R"
+		(property "Value" "5x5 3v buzzer"
 			(at 98.806 123.444 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2745,8 +2745,8 @@
 				)
 			)
 		)
-		(property "Description" "DIODE SCHOTTKY 40V 1A SMA"
-			(at 101.6 91.44 0)
+		(property "Description" "ON SEMICONDUCTOR - - DIODE, SCHOTTKY, 1A, 40V, DO-214AC-2"
+			(at 101.092 88.646 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2754,6 +2754,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right bottom)
 			)
 		)
 		(property "MOUSER DESCRIPTION" "Schottky Diodes & Rectifiers SMA 40V 1.0A"
@@ -2793,18 +2794,6 @@
 			)
 		)
 		(property "MANUFACTURER PART NUMBER" "SS14"
-			(at 101.092 88.646 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right bottom)
-			)
-		)
-		(property "DESCRIPTION" "ON SEMICONDUCTOR - - DIODE, SCHOTTKY, 1A, 40V, DO-214AC-2"
 			(at 101.092 88.646 90)
 			(hide yes)
 			(show_name no)
@@ -3105,7 +3094,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "XIAO-ESP32-C3"
+		(property "Value" "XIAO-ESP32-S3"
 			(at 127 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
