@@ -1,4 +1,5 @@
 Drop Wii_RA gerbers.zip into JLC pcb
+<img width="402" height="458" alt="image" src="https://github.com/user-attachments/assets/1733ec80-e1ba-42f9-a007-ae22871d5a24" />
 
 Components:  
 
